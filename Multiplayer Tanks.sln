@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplayer Tanks", "Multiplayer Tanks.csproj", "{946D8B9F-756D-E008-9A4F-979F5DA3F709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplayer Tanks.Editor", "Multiplayer Tanks.Editor.csproj", "{DCA8017B-7DE8-C944-1062-B894737334CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{946D8B9F-756D-E008-9A4F-979F5DA3F709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946D8B9F-756D-E008-9A4F-979F5DA3F709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946D8B9F-756D-E008-9A4F-979F5DA3F709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946D8B9F-756D-E008-9A4F-979F5DA3F709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCA8017B-7DE8-C944-1062-B894737334CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA8017B-7DE8-C944-1062-B894737334CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA8017B-7DE8-C944-1062-B894737334CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA8017B-7DE8-C944-1062-B894737334CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
